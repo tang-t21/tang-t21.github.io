@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Tian Tang"
   pronouns         : # example: "she/her"  
-  bio              : "Senior undergraduate student at IIIS"
+  bio              : "Senior undergraduate student"
   location         : "Beijing, China"
-  employer         : "Tsinghua University"
+  employer         : ["IIIS, Tsinghua University"](https://iiis.tsinghua.edu.cn/)
   uri              : # URL
   email            : "tiantang673@gmail.com" 
 
