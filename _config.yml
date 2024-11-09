@@ -21,7 +21,7 @@ repository               : "tang-t21/tang-t21.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Tian Tang"
   pronouns         : # example: "she/her"  
   bio              : "Senior undergraduate student"
