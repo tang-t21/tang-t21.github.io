@@ -12,9 +12,9 @@ title                    : "Tian's Homepage"
 title_separator          : "-"
 name                     : &name "Tian Tang"
 description              : &description "personal description"
-url                      : https://tang-t21.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tiantang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tang-t21/tang-t21.github.io"
+repository               : "tang-t21/tiantang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.

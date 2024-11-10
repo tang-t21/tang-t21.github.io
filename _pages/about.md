@@ -11,7 +11,7 @@ Hi! I am Tian Tang (唐添), a senior undergraduate student at Yao Class, Tsingh
 Currently I am working with Prof. [Baris Kasikci](https://homes.cs.washington.edu/~baris/) at University of Washington.
 I was fortunate to be advised by Prof. [Mingyu Gao](http://people.iiis.tsinghua.edu.cn/~gaomy/) in my junior year.
 
-I am seeking for Ph.D. positions starting from Fall 2025. If you are interested in my research, please feel free to contact me.
+**I am seeking for Ph.D. positions starting from Fall 2025**. If you are interested in my research, please feel free to contact me.
 
 Miscellaneous:
 ======
