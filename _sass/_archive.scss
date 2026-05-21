@@ -84,6 +84,39 @@
   }
 }
 
+.publication__item {
+  margin-bottom: 1.15em;
+}
+
+.page__content .publication__item .archive__item-title {
+  margin-top: 0.75em;
+  margin-bottom: 0.1em;
+}
+
+.publication__meta {
+  margin: 0;
+  font-size: $type-size-6;
+  line-height: 1.45;
+
+  small {
+    white-space: nowrap;
+  }
+}
+
+.publication__authors,
+.publication__venue,
+.publication__links {
+  white-space: nowrap;
+}
+
+.publication__venue,
+.publication__links {
+  &::before {
+    content: " | ";
+    color: $gray;
+  }
+}
+
 
 /*
    List view
