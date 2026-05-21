@@ -60,11 +60,12 @@
 
 .page__footer-traffic {
   margin-bottom: 0.75em;
+  text-align: center;
 
   img {
     max-width: 100%;
     height: auto;
-    border: 0;
+    border: 1px solid $light-gray;
   }
 }
 
