@@ -24,15 +24,15 @@ author:
   avatar           : "profile.png"
   name             : "Tian Tang"
   pronouns         : # example: "she/her"  
-  bio              : "Senior undergraduate student"
+  bio              : "AI startup builder"
   location         : "Beijing, China"
-  employer         : "IIIS, Tsinghua University"
+  employer         : "AI Startup"
   uri              : # URL
-  email            : "tang-t21@mails.tsinghua.edu.cn" 
+  email            : "tiantang673@gmail.com" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
-  # googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=7at9_R4AAAAJ&hl=en"
   # impactstory      : # URL
   # orcid            : # "http://orcid.org/yourorcidurl"
   # semantic         : # URL

@@ -6,6 +6,8 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jemoji'
   gem 'webrick', '~> 1.8'
+  gem 'csv'
+  gem 'bigdecimal'
 end
 
 gem 'github-pages'
