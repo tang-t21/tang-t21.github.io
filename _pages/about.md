@@ -10,4 +10,4 @@ Hi! I am Tian Tang (唐添). I received my Bachelor's degree from Yao Class, Tsi
 
 I applied for Fall 2025 Ph.D. programs and received some offers, but eventually got AGI-hyped and joined an AI startup instead of pursuing a Ph.D. Sorry, [Baris](https://homes.cs.washington.edu/~baris/).
 
-If you are interested in my work, please feel free to contact me by **tiantang673@gmail.com**.
+I love connecting with people. If you are interested in my work or just want to chat, please feel free to drop me an email at **tiantang673@gmail.com**.
