@@ -2,6 +2,7 @@
 title: "Expert-as-a-Service: Towards Efficient, Scalable, and Robust Large-scale MoE Serving"
 collection: publications
 category: manuscripts
+contribution_order: 7
 permalink: /publication/2025-09-22-expert-as-a-service
 excerpt: 'Expert-as-a-Service is a serving system for efficient, scalable, and robust large-scale Mixture-of-Experts deployment.'
 date: 2025-09-22
