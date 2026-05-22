@@ -62,6 +62,16 @@
   margin-bottom: 0.75em;
   text-align: center;
 
+  #clustrmaps-widget-v2 {
+    min-height: 94px !important;
+  }
+
+  #clustrmaps-widget-v2 > .clustrmaps-bottom-text,
+  #clustrmaps-widget-v2 .clustrmaps-visitors,
+  #clustrmaps-widget-v2 .clustrmaps-date {
+    display: none !important;
+  }
+
   img {
     max-width: 100%;
     height: auto;
